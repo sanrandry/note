@@ -5,96 +5,146 @@ position: 2
 category: "Book"
 ---
 
-## Note
+## Note and review
 
-"The E-myth revisited" est un livre pour les entrepreneurs. L'auteur, Gerber, affirme que la plupart des gens créent une entreprise en quête de liberté et d'autonomie, mais finissent par être esclaves de leur propre entreprise.</br>
-Michael Gerber enseigne ensuite aux entrepreneurs comment créer des entreprises qui peuvent fonctionner indépendamment des fondateurs, ce qui leur permet d'être libres.</br>
+"The E-myth revisited" is a book for entrepreneurs. Gerber, the author, says that most people start a business in search of freedom and self-empowerment, but instead end up being slaves of their own business.</br>
+Michael Gerber then teaches entrepreneurs how to build business that can run independently of the founders, allowing them to be free.</br>
+
 ### important
-- Penser des systèmes et des résultats reproductibles (comme la franchise).</br>
-- Travaillez sur l'entreprise, pas dans l'entreprise (engagez d'autres personnes pour faire votre travail)</br>
-### résumé
-Le E-myth revisité est divisé en trois parties :
-- L'état actuel des petites entreprises américaines (chapitres 1 à 6)
-- A l'aperçu théorique de la manière dont devrait être
-- les étapes pratiques pour construire une machine commerciale efficace qui sera indépendante de vous et qui vous rendra finalement libre et indépendant (chapitres 10 à 18)
-### Chapitre 1 : Le mythe entrepreneurial
-Michael Gerber dit que beaucoup de gens fonde son entreprise parce qu'ils ne veulent pas d'un patron. Et ils croient que parce qu'ils savent ce qu'ils font, ils savent comment gérer leur propre entreprise.
-### Chapitre 2 : Entrepreneur, manager et technicien
-Michael Gerber affirme que la plupart des petites entreprises échouent parce que leurs propriétaires sont des techniciens qui manquent de qualités d'entrepreneurs.
-#### Technicien
-le technicien vit dans le présent et ne fait que son travail. Il démarre une entreprise parce qu'après en avoir eu assez de travailler pour quelqu'un d'autre.
-#### manager
-Le manager planifie une organisation, il s'accroche au statu quo et aspire à l'ordre.
-#### Entrepreneur
-L'entrepreneur est le visionnaire qui vit dans l'avenir et passe d'une idée à l'autre, souvent sans mettre en place tout le processus nécessaire pour que l'entreprise réussisse dans la vie réelle.
-### chapitre 3 : L'enfance, la phase technicienne
-La plupart des personnes qui créent une entreprise sont des techniciens. Ils savent comment faire le travail et créer une entreprise en faisant ce qu'ils faisaient auparavant. Le propriétaire et l'entreprise sont exactement les mêmes.</br>
-Mais si votre entreprise dépend de vous et que vous faites ce que vous avez toujours fait auparavant, vous n'êtes pas propriétaire d'une entreprise, vous gagnez un emploi.
-### chapitre 4 : Adolescence, obtenir de l'aide
-Dès qu'une entreprise commence à embaucher, le technicien passe à la phase de gestion.</br>
-L'erreur la plus courante des premiers dirigeants et souvent des dirigeants en général est de faire le travail eux-mêmes au lieu d'enseigner et de déléguer..
-### chapitre 5 : Au-delà de la zone de confort
-lorsque vous commencez à embaucher, cela devient difficile pour la plupart des gens, car ils se trouvent pour la première fois en dehors de leur zone de confort et doivent compter sur d'autres personnes.  
-Certaines personnes s'y dérobent et, par peur, retournent à l'isolement. Mais l'implosion, et peu d'entreprises y survivent.  
-Croissez lentement si vous avez besoin de croître lentement, mais ne revenez pas en arrière.  
-### chapitre 6 : Maturité et esprit d'entreprise perspective
-Les affaires ne deviennent pas grandes une fois que les personnes sont matures.  
-Oui, il faut passer par l'enfance et l'adolescence, mais les grandes affaires ont bien commencé.  
-Il s'agissait de créer des affaires, pas de faire des affaires.  
-Faire des affaires signifie mettre en place des systèmes reproductibles qui produisent des résultats pour les clients.  
-Et le secret pour démarrer une grande entreprise est d'imaginer l'entreprise, bien définie, telle qu'elle devrait être une fois que vous êtes mature. Il faut revenir en arrière, dresser la carte de ce qu'il faut pour y arriver et commencer à concrétiser cette vision.  
-### Chapitre 7 : La révolution clé en main
-Une grande entreprise autonome se construit sur des systèmes, pas sur des personnes.  
-### Chapitre 8 : Le prototype de la franchise
-La franchise est le meilleur modèle et la meilleure mentalité pour la réussite des petites entreprises.  
-La franchise a son point fort dans les systèmes qu'elle développe.  
-Les systèmes de franchise permettent à votre entreprise de devenir indépendante de vous en tant que propriétaire et fondateur.  
-Si vous êtes bloqué dans votre entreprise en tant que technicien, vous serez toujours esclave de votre travail.  
-### chapitre 9 : Travailler sur votre entreprise, pas dans l'entreprise
-Travailler sur votre entreprise signifie commencer à mettre en place tous les systèmes qui feront fonctionner l'entreprise, que vous y soyez ou non. Et peu importe que les gens partent ou que vous en embauchiez de nouveaux, car les systèmes permettent à chacun de faire facilement son travail.  
-Les bonnes questions que vous devez vous poser sont les suivantes :  
-- Comment faire fonctionner votre entreprise sans vous, vous êtes libre !  
-- Comment pouvez-vous rendre votre personnel indépendant de vous.  
-- Comment pouvez-vous créer une entreprise que vous pouvez reproduire cent fois.
-- Comment pouvez-vous fixer votre temps pour faire ce que vous aimez au lieu de ce que vous devez faire.  
-### Chapitre 10 : Le processus de développement des entreprises
-Quantifiez tout et assurez-vous que vous pouvez facilement prendre le rythme de votre entreprise en connaissant les principaux paramètres.  
-Votre entreprise doit être prévisible, et pour être prévisible, vos employés ne doivent pas avoir de pouvoir discrétionnaire sur leur travail. Car si vous dépendez des gens, vous obtenez le chaos et vous ne pouvez pas le reproduire cent fois. Et si c'est le cas, en fin de compte, l'entreprise ne vous appartient pas.
-### Chapitre 11 : Le programme de développement des entreprises
-Comment construire une entreprise reproductible ? Avec le programme de développement des entreprises, qui comprend les étapes suivantes :
-- Objectif principal
-- Objectif stratégique
-- Stratégie organisationnelle
-- Stratégie de gestion
-- Stratégie pour les personnes
-- Stratégie de marketing
-- Stratégie des systèmes
-### Chapitre 12 : votre objectif premier
-Quel est votre but dans la vie ?  
-Parce que l'entreprise en fait partie, mais votre objectif premier doit être plus grand que l'entreprise elle-même. Une fois que vous connaissez votre but premier, il vous permet de donner vie à l'entreprise et à votre entreprise.
-### Chapitre 13 : votre objectif stratégique
-votre objectif stratégique vous indique comment votre entreprise s'inscrit dans votre objectif premier.  
-Que doit faire l'entreprise pour atteindre le but premier de votre vie ?  
-Ce n'est pas un plan d'affaires, c'est un plan de vie.
-### Chapitre 14 : Votre stratégie organisationnelle
-La stratégie organisationnelle est liée au travail sur l'entreprise plutôt que dans l'entreprise.  
-Elle consiste à faire un travail stratégique puis à engager des techniciens (aussi peu qualifiés que possible) pour faire un travail tactique.  
-Exemple :  
-au tout début, vous vendez en tant que représentant des ventes.  Mais vous commencez tout de suite à travailler sur le poste de représentant des ventes en tant que vice-président du marketing en produisant des manuels et des scripts pour les techniciens qui vous remplaceront bientôt.
-### Chapitre 15 : votre stratégie de gestion
-Une stratégie de gestion parfaite est automatisée. Un système où les gestionnaires n'auront pas du tout à prendre de décisions.  
-Vous ne pouvez pas vous fier à des personnes hautement qualifiées et trop intelligentes, qui ont de gros moyens. Elles arriveront avec trop de pouvoir et lorsqu'elles partiront, il sera difficile de les remplacer.  
-Des systèmes efficaces et automatisés pour les travailleurs peu qualifiés sont la réponse et la clé de votre liberté.  
-### Chapitre 16 : votre stratégie en matière de ressources humaines
-Vous ne pouvez pas obliger les gens à faire ce que vous voulez, mais vous pouvez créer un environnement dans lequel il est plus important de faire que de ne pas faire.  
-Si vous voulez que des gens formidables travaillent pour vous, vous devez d'abord devenir un grand homme.  
-### Chapitre 17 : Votre stratégie de marketing
-Vous devriez apprendre la démographie de votre marché (la science qui vous dit qui achète) et la psychographie (la science de la perception de la réalité du marché, pourquoi ils achètent quelque chose).  
-Comment le savoir ?
-Posez-leur la question et donnez-leur des réponses gratuites. Demandez-leur leurs couleurs, parfums et marques préférés. Et voyez comment ces marques font de la publicité.
 
-### Chapitre 18 : votre stratégie systémique
-Assurez-vous que tous les systèmes fonctionnent bien ensemble et que vous êtes prêts.  
-### des applications concrètes
-Ne vous contentez pas de faire le travail, réfléchissez à la manière dont vous pouvez automatiser le travail et vous remplacer par un système qui n'a pas toujours besoin de vous.  
-Vous serez alors libre.  
+- Think systems and replicable results(like franchise).</br>
+- Work ON the business, not in the business(hire others to do you work)</br>
+
+### summary
+
+The E-myth revisited is divided into three parts:
+
+- The current state of American small businesses (chapters 1 to 6)
+- At theoretical overview of how should be
+- the practical steps to build an effective business machine that will be independent of you and eventually make you free and independent (chapters 10 to 18)
+
+### Chapter 1: The entrepreneurial Myth
+
+Michael Gerber says that many people who get business do so because they don't want a boss. And they believe that because they know what they're doing, then they know how to run their own business.
+
+### Chapter 2 : Entrepreneur, Manager & Technician
+
+Michael Gerber affirms mos small businesses fail because owners are technicians lacking and entrepreneur qualities.
+
+#### Technician
+
+the technician lives in the present and is all about doing the job. He starts a business because after getting tired of working for someone else.
+
+#### Manager
+
+The manager plans an organizes, he clings to the status quo and craves order.
+
+#### Entrepreneur
+
+The entrepreneur is the visionary living in the future and moving from idea to idea, often without setting up all the necessary process for the business to succeed in real life.
+
+### chapter 3: Infancy, The technician phase
+
+Most people who start a business are technicians. They know how to do the job and start a company doing what they've been doing before. The owner and the business are exactly the same.</br>
+But if your business depends on you an do what you have always been doing before, you don't own a business, you won a job.
+
+### chapter 4: Adolescence, getting some help
+
+The moment a business start hiring, it's when the technician moves to the manager phase.</br>
+The most common mistakes of early managers and often of manager in general is that of doing the work themselves instead of teaching and delegating..
+
+### chapter 5: Beyond the comfort zone
+
+when you start hiring it gets difficult for most people as they are for the first time outside their comfort zone and have to rely on other people.  
+Some people shirk from it and, out of fear, they go back to being just by themselves. But implosion, and few businesses survive it.  
+Grow slow if you need to grow slowly, but don't go back.
+
+### chapter 6: Maturity and entrepreneurial perspective
+
+business don't become great once the mature.  
+Yes, you must go trough infancy and adolescence, but great business started great.  
+It was all about building business, not doing business.  
+Building business means putting in place replicable systems that produce results for the customers.  
+And the secret to starting out a great business is to imagine the business, well-defined, as it should be once you are mature. The go back, map what is takes you to get there and start building that vision into reality.
+
+### Chapter 7: The turn-key revolution
+
+A great, self-reliant business is built on systems, not on people.
+
+### Chapter 8: The franchise prototype
+
+The franchise is the best model and mentality for small business to succeed.  
+The franchise has its strongest point in the systems it develops.  
+The franchise systems allow your business to become independent of you as the owner and founder.  
+If you get stuck in your business as a technician you will always be a slave of your job.
+
+### chapter 9: Working ON your business, not in it
+
+Working on your business means starting putting in place all the systems that will make the business work no matter whether you are there or not. And no matter whether people leave or you hire new ones because the systems make it easy for everyone to do the work.  
+The right questions you to ask yourself are:
+
+- How can you get your business to work without you, you are free!
+- How can you make your people independent of you.
+- How can you build a business you can replicate a hundred times.
+- How can you set your time to do what you love instead of what you have to.
+
+### Chapter 10: The business development process
+
+Quantify everything, and make sure you can easily take your business' pulse by knowing what the key metrics.  
+Your business should be predictable, and to be predictable your employees should have no discretion on their job. Because if you depend on people, you get chaos and you can't replicate it a hundred times. And if that's the case, ultimately, you don't own the business.
+
+### Chapter 11: The business development program
+
+How do you build a replicable business? With the Business Development Program, consisting following steps:
+
+- Primary aim
+- Strategic objective
+- Organizational strategy
+- Management strategy
+- People strategy
+- Marketing strategy
+- Systems strategy
+
+### Chapter 12: your primary aim
+
+What is your life goal?  
+Because business is a part of it, but your primary goal should be bigger than the business itself. Once you know your primary aim, it allows you to bring business to life and life ito your business.
+
+### Chapter 13: your strategic objective
+
+your strategic objective tells you how does your business fit into your primary aim.  
+What does the business have to do so that ca fulfill your life's primary aim?  
+This is not a business plan, it's a life's plan.
+
+### Chapter 14: Your organizational strategy
+
+The organizational strategy ties back to working on the business rather than in the business.  
+It means doing strategic work and then hiring technicians (as lowly skilled as possible) to do tactical work.  
+Example:  
+at the very beginning, you sell in the position of sales rep. But you start working right away on the sales rep position as a VP marketing by producing manuals and script for the technicians that will soon replace you.
+
+### Chapter 15: your management strategy
+
+A perfect management strategy is automated. A system where managers won't have to make decisions at all.  
+You can't depend on highly skilled and too smar, big-ticket people. they will come with too much power and when they leave it's hard to replace them.  
+Effective and automated systems for low skilled workers is the answer and the key to your freedom.
+
+### Chapter 16: your people strategy
+
+You can't ge people to do what you want, but you can create an environment where doing is more important than not doing it.  
+If you want to have great people working for you, You got to become a great man first.
+
+### Chapter 17: Your marketing marketing strategy
+
+You should learn your market demographics(science telling you who buys) and psycho-graphics(the science of perceived marketplace reality, why they buy something).  
+How do you find out?
+Ask them and give them freebies for their answers. Ask them their favorite colors, perfume, brands. And see how those brands advertise.
+
+### Chapter 18: your systems strategy
+
+Make sure that all the systems work well together and you are set.
+
+### real-life applications
+
+Don't just work the work, think how you can automate the work and replace yourself with a system that does not always need you.  
+Then you will be free.
