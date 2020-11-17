@@ -6,16 +6,18 @@ export default theme({
     base: "/note/",
   },
   i18n: {
-      locales: () => [{
-        code: 'fr',
-        iso: 'fr-FR',
-        file: 'fr-FR.js',
-        name: 'Français'
-      }, {
+    locales: () => [
+      {
         code: 'en',
         iso: 'en-US',
         file: 'en-US.js',
         name: 'English'
+      },
+      {
+        code: 'fr',
+        iso: 'fr-FR',
+        file: 'fr-FR.js',
+        name: 'Français'
       }],
       defaultLocale: 'en'
     }

@@ -148,3 +148,250 @@ Make sure that all the systems work well together and you are set.
 
 Don't just work the work, think how you can automate the work and replace yourself with a system that does not always need you.  
 Then you will be free.
+
+## Deep summary
+### intro
+* Idea 1: entrepreneur myth : companies started by entrepreneurs who risk capital (this is not true); many starts business note for entrepreneurship.
+* Idea 2: turnkey revolution in America
+* Idea 3: business development process
+* Idea 4: business development cat be applied step by step
+* E-myth Worldwide
+### Part 1 E-myth and small business in America
+#### Chapter 1 entrepreneur myth
+* Entrepreneur only exists for a moment the gone
+* Most do not go into business for dream
+* Entrepreneurial seizure moment
+* Fatal assumption: if You do not understand the tech work of a business, You still do not know how to run such a business.
+* Business is not just about the work you love to do
+*  Million other task you do not know
+#### chapter 2 the entrepreneur, the manager, the technician
+* 3 people in one
+* Tension between entrepreneurs vision and managers pragmatism
+* Technician wants to work and only one at a time
+#### Chapter 3 infancy: technician's phase
+* Overloaded technician who does all
+* You Can not just do the tech work
+* You kill the business if all you want is tech work
+#### Chapter 4 adolescence: getting some help
+* Joy of getting someone to do work you do not want
+* Management by abdication instead of delegation
+* Trusting employee blindly and not giving enough direction and supervision (this is bad)
+#### Chapter 5 beyond the comfort zone
+* Adolescent business pushes beyond owner's comfort zone
+* Exceeds ability to control it
+* 3 reactions
+* Back to infancy where you do it yourself; you do not own a business but a job you can not leave
+* Going for broke
+* Adolescent survival
+#### Chapter 6 maturity
+* Build a business that work without you
+* Focus on customer and business not at work
+
+### Part 2 turnkey revolution
+#### Chapter 7
+* Business format: franchise
+* Provide an entire system of doing business
+* Build a system and do not depend on people
+* Work on the business not on it
+* The business as a product
+* Franchise prototype with interchangeable parts
+* Integrity about doing what you say you will do
+* McDonald's always doing what the promise
+* Model to emulate
+#### Chapter 8 franchise prototype
+* Vast majority of business format franchises succeed
+#### Chapter 9 working on your business, not in it
+* your business is not your life
+* Primary purpose of Your business is to serve your life, not vice versa
+* Pretend your bussiness as prototype to clone 1000 time
+* Operated by people of lowest possible skill necessary, systems have to not dependent on people
+* All work is documented in operation manuals
+* provide uniform and predicable service to your customer
+* Utilize uniform color, dress, and facilities code
+* Impact to colors, font on sales
+* Work on the business not in it as a prototype for mass market business
+* Think of the business as a product
+### Part 3 building a business that works
+#### Chapter 10 business process
+* Building a prototype of the business
+* 3 steps
+* Innovation; Creativity thinks; innovation does; how business interacts is more important than what sells; blue suits outsell brown suits on slespeople; touch softly on arm when ask someon; estalishe individuality of your business based on customer needs; always asking what is the best way of doing this
+* Quantification; Numbers related to impact of innovations; Establish all baselines and controls of experiment; key metrics
+* Orchestration; elimination of discretion and choice in implementing innovations; standarization once know results of experiments; order and loigic behind human craving for reason; once know best suit to wear and best welcome greeting say it every single time.
+* Search for mastery by perfecting step carefully
+* Metaphor for going to work on you life
+#### Chapter 11 your business development program
+* Imagine having to walk buyer of ur business through each part to show that works perfectly without you
+* 7 steps
+* Your primary aim
+* Strategic objective
+* Organisation strategy
+* Management strategy
+* People strategy
+* Marketing strategy
+* Systems strategy
+#### Chapter 12 primary aim
+* you (not the business) first order of agenda
+* What value most
+* What kind of life what you to live?
+* What what to say about your life after done
+* Don't fear losing business, fear of losing your life
+#### Chapter 13 Your strategic objective
+* Business strategyy and plan
+* Set of standards that helps communicate
+* Money: how big will be when done;can not know but need some standard; What strandard will serve my primary aim; goal is to sell predictable business at end
+* Oppoetunity worth pursuing standard; if reasonable to assume can meet aim; does business alleviate a frstration enough people have; people buy feelings and values; you sell the feeling not the commodity
+* Who is my customer: demographic and psychographic
+* When prototype completed
+* Where in business
+* How in business an retail
+* What standrads of clothing, etc
+#### Chapter 14 organizational strategy
+* Organization development shown in org chart
+* Most organize around personalities and people instead of functions
+* Without organisational chart all hinges on personalities and goodwill
+* Need accoutability for parts
+* Share presonal dreams and primary amin with partners
+* See selves as shareholders from outside business
+* Inside business slef as employee
+* Create strategic objective for business, do demographic research, create questionnaire, personal calls fro needs analysis to 150 customers: what product mean to them, how have changed lives; if could have any product at all waht would be like, what would good one feel like to use, what would it do for them
+* Create financials pro forma for first year cash flow and income for bank
+* Create operating plan
+* Info on competition and consumer and pricing
+* Create organisational chart base on strategic objective
+* Create lots of boxes and then put names, even if overlap
+* Description of all the work to be done, no matter who is in company
+* Write position contract for each position: results to achieve, work accoiuntable for, objective standards, who will do it; contract creates accountability
+* Name people to put in the boxes
+* Pickon president/COO: only one can be in charge
+* After organization designed, start working o th prototype
+* Strat from bottom of organisational chart whether started originally working in the business
+* Must find others to do tactical work by prototyping each position as a mini business
+* Use mini business development process on each position: innovation, quantification, orchestration
+* While working in the position work on the position
+* Test out clothing, call scripts, document waht works best in manual
+* Only when manual complete do you run ad for position
+* But not for someone with that experience/ master but for a novice/apprentice
+* as soon as hires tactician at that moment promoted to managing the system
+* Now strategic work instead of tactical
+#### Chapter 15 management strategy
+* Not about finding competent managers
+* Need management system
+* System is the solution
+* Every single part of operation in manual is checklist
+* Multiple checks of everything
+* As much automation and timers as possible
+#### Chapter 16 your people strategy
+* Can get people to do what you want
+* Must make environment where they want to shine
+* Explain the idea behind the work that's more important than work itslef
+* How you do work reflection on how you are inside and how feel about self
+* Business is extension of owner's values and must communicate idea behind those to new people
+* Place you to to practice being best you can be
+* Look for players in you dojo game where fight against themselves
+* Explain ths plhilosophyyy about work on first day
+* Work about achieving self
+* Vert best business is well conceived game
+* Rules of the game
+* Never start with waht want people to do and then make game out of it, strat with game and values ideas
+* Never create game for people unwilling to play self
+* Make sure there are a wats of winning the game without ending it
+* Change the game from time to time: tactics, not strategy; strategy is game's ethic; results tell you when game over and needs to be changes
+* Never expect game to be self sustaining; need to remid about it weekly; make exception to it daily to remind
+* Game has to make sense and be verifiable
+* Game needs to be fun from time to time; plan in fun as defined by people; once in 6 month
+* if you can ot think a good game, steal on bue lear it by heart
+* Logi of the game
+* Poeple missing values and standards and good game
+* Provide organization and values people want
+* Playing the game
+* Boss communicated his ideas throungh documentation and orderly communication
+* Hiring process key medium
+* Hiring process
+* Scripted presentation by boss to all candidates in group meeting explaining his idea and plan and game, business history implementing the idea, and attributes of successful candidae
+* Meeting with each applicant individually to discuss reactions to and feelings about the idea, background, experience, why he feels capable implementing the boss's idea
+* Notification of successful thanking for interest, standard letter signed by interviewer
+* First day of training for boss and employee including reviewing the boss's idea, summarize the systems that implement it , facility tour to show interdepence between systems and people, answering  clearly and fully all employee questions, issuing uniform and operations manual, reviewing manual including strategic objective, organisation strategy, and position contract, completing the employment paperwork
+* This is just first step requiring strategy and system
+* How we do it here
+* How we recruit, hire and train people to to it here
+* How we manage it here
+* How we change it here
+* It is main business idea
+* Summary total of all systems Domented in manual and taught in school
+#### Chapter 17 your marketing strategy
+* Irrational decision making customer
+* Forget about you and focus on customer
+* Customer absorbs all stimuli from environment
+* Unconscious mind is where second step of buying process happens
+* First is awareness
+* Customer expectations unknown to him and you but matter
+* Sale is made in first 3 minutes
+* Headline all that matters in print ad
+* Demographics and psychographics
+* Construct prototype scientifically to appeal to perceived market reality
+* IBM blue color of logo highly significant to results
+* Navy dress suit most professional
+* Find a perceived need and fill it
+* Controlled experimentation
+* Ask each every customer for free goods questionnaire
+* Who they are
+* Where live: draw them on map, put line around them, that's your trading zone
+* What car drive
+* What perfume buy
+* What read
+* what colors shapes words they prefer
+* Clothes jewelry food
+* Match those brands to the colors and commercials and publications that sell them
+* Become like the products they already like
+* Buy a list of demographically correct people living you zone
+#### Chapter 18 Your systems strategy
+* Hard systems physical
+* Soft systems: selling system
+* Scripts memorized
+* Delivery in identical fashion
+* How you dress
+* Structure and substance
+* Power point selling system
+* Power point selling process is series of srcipts
+* Appt presentation just to make appt, get emotional commitement, hook
+* Needs analysis presentation repeats appt presentation hook, establish credibility (company expertise positiioning statement, personal willingness to do what can to help customer), ask if these things frustrate them, describe product system and why it works well/impact from customer perspective, not how it works, do questionnaire
+* Solution presentation: selling is opening, not closing; review custom prepared report; ask which of these options sounds best ofr you
+* Use same words and steps every single time
+* Information system
+* Calls made
+* Prospects reached
+* Appts held
+* Needs analyses presentations scheduled
+* Needs analysis presentations comfirmed
+* Needs analysis presentations scheduled
+* Confirmed
+* Held
+* Solutions sold
+* Average value of sale
+* This benchmark analysis tells you conversionn rate and which steps most important to improve
+* Things
+* Actions
+* Ideas
+* Hard soft and info systems
+* All interdependent
+* All words with any outsider of business is a system
+* Powerfull when integrated carefully and planned and experimented
+#### Chapter 19  a letter
+* Search for meaning
+* Meaning is product of caring
+* Things we care about less significant than before
+* Not seriouss people anumore
+* Get in touch with your spirit that cares
+* Stay out of confort zone
+#### Epilogue
+* Chaos is only inside us
+* Change our lives
+* Learn about who we are in the dojo
+* Learn attentino and discipline
+* Demands specifics not generalizations
+* Business like dojo
+* intentinally and systematically
+#### Afterward
+* Step back from business and see gap between where you are and to be 
+* Gap always due to lack of systems
